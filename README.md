@@ -3,12 +3,12 @@ gulid how to use tween in roblox
 
 ## Usage:
 
-# Explore the provided Lua script to understand the fundamentals of tweening in Roblox. The script demonstrates a basic example of how to use the TweenService to create a smooth transition for a player's character.
+ Explore the provided Lua script to understand the fundamentals of tweening in Roblox. The script demonstrates a basic example of how to use the TweenService to create a smooth transition for a player's character.
 
 ## Features:
 
-# TweenService Example: Learn how to use the TweenService to create smooth transitions for properties like CFrame.
-# Positional Tweening: Understand the concept of tweening by teleporting a player to a specified position with a gradual transition.
+ TweenService Example: Learn how to use the TweenService to create smooth transitions for properties like CFrame.
+ Positional Tweening: Understand the concept of tweening by teleporting a player to a specified position with a gradual transition.
 ## How to Use:
 
 ```lua
